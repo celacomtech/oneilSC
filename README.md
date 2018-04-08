@@ -8,8 +8,7 @@ Responsive website for attorney at law.
 ## Built With
 
 * [Bootstrap](https://getbootstrap.com/) - Get started with Bootstrap
-* [Moder Business](https://startbootstrap.com/template-overviews/modern-business/) - Boostrap Template
-Modern Business is a fully loaded Bootstrap 4 website starter template. It includes 17 HTML pages along with a working PHP contact form. You can use this template to create larger, multipurpose websites using Bootstrap 4.
+* [Moder Business](https://startbootstrap.com/template-overviews/modern-business/) - Modern Business is a fully loaded Bootstrap 4 website starter template. It includes 17 HTML pages along with a working PHP contact form. You can use this template to create larger, multipurpose websites using Bootstrap 4.
 
 
 
@@ -25,5 +24,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [Law Firm Internet Marketing] (https://www.justlegalmarketing.com/)
+* [Law Firm Internet Marketing](https://www.justlegalmarketing.com/)
 * [Li Law Firm](http://www.victorlilaw.com/)
