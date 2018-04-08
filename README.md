@@ -1,4 +1,4 @@
-# [Law Office Template](https://celacomtech.github.io/oneilSC/)
+# Law Office Template 
 
 Responsive website for attorney at law.
 
