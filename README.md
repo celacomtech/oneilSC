@@ -1,14 +1,9 @@
-# oneilSC
+# Law Office Template
+
 Responsive website for attorney at law.
 
  ![Image](https://github.com/celacomtech/oneilSC/blob/master/modern-business.jpg)
 
-
-
-
-# Law Office Template
-
-Responsive website for attorney at law.
 
 ## Built With
 
